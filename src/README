@@ -1,0 +1,11 @@
+OS: windows
+
+Machine: PC (Eclipse)
+
+Program language and version: Java 버전 8 업데이트 77 (빌드 1.8.0_77-b03)
+
+External library: No
+
+Command:
+$ javac FindLCS.java Bin.java LCS.java Matrix.java (or javac *.java)
+$ java FindLCS
